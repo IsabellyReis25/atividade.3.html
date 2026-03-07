@@ -4,7 +4,7 @@ Isabelle Vitorya e Reis
 <html lang="pt-br">
 <head>
 <meta charset="UTF-8">
-<title>Meu Primeiro Site</title>
+<title>Jogos.isas</title>
 
 <style>
 
@@ -59,38 +59,35 @@ footer{
 
 <body>
 
-<h1>Título Principal da Página</h1>
+<h1>Recomendando jogos!</h1>
 
-<h2>Subtítulo da Página</h2>
+<h2>Jogos pra passar o tempo </h2>
 
 <p>
-PARÁGRAFO 1: Escreva aqui um pouco sobre você.
-Exemplo: Meu nome é ___, gosto de tecnologia e estou aprendendo HTML.
+Subway Surfers é um jogo de corrida infinita em que o jogador controla um personagem que está fugindo de um inspetor e seu cachorro após fazer grafite em um trem. O objetivo é correr pelos trilhos do metrô desviando de obstáculos, trens e barreiras enquanto coleta moedas e itens especiais. Durante o jogo, é possível usar power-ups, como jetpack e ímã de moedas, que ajudam a aumentar a pontuação e continuar correndo por mais tempo.
 </p>
 
 <img src="imagem1.jpg" alt="Imagem 1">
 
 <p>
-PARÁGRAFO 2: Aqui você pode falar sobre seus hobbies,
-coisas que gosta de fazer ou seus estudos.
+Gartic é um jogo online de desenho e adivinhação que pode ser jogado pelo celular com amigos ou outras pessoas. Em cada rodada, um jogador recebe uma palavra secreta e precisa desenhá-la para que os outros participantes tentem adivinhar o que é. Enquanto os jogadores enviam suas respostas no chat, quem acertar primeiro ganha mais pontos. O jogo continua com vários turnos até que todos tenham desenhado.
 </p>
 
 <img src="imagem2.jpg" alt="Imagem 2">
 
 <p>
-PARÁGRAFO 3: Neste espaço você pode escrever mais
-informações sobre você ou seus objetivos.
+Stop, também conhecido como Adedonha, é um jogo de palavras que pode ser jogado no celular com várias categorias, como nome, animal, fruta ou cidade. Em cada rodada, uma letra do alfabeto é sorteada, e os jogadores precisam preencher todas as categorias com palavras que comecem com essa letra. Quando alguém termina primeiro, ele aperta o botão “Stop”, e todos os jogadores param de escrever. Depois disso, as respostas são conferidas e os pontos são distribuídos de acordo com as palavras corretas e únicas.
 </p>
 
 <img src="imagem3.jpg" alt="Imagem 3">
 
-<h3>Coisas que eu gosto</h3>
+<h3> Jogos do google!</h3>
 
 <ul>
-<li>Ouvir música</li>
-<li>Assistir filmes</li>
-<li>Estudar tecnologia</li>
-<li>Passar tempo com amigos</li>
+<li>Conexo</li>
+<li>Termo</li>
+<li>Contexto </li>
+<li>Dueto</li>
 </ul>
 
 <button>Clique aqui</button>
@@ -101,7 +98,7 @@ Visite este site:
 </p>
 
 <footer>
-<p>Este é meu primeiro site em HTML.</p>
+<p>Feito por Isabelle e Reis.</p>
 </footer>
 
 </body>
