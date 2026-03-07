@@ -93,7 +93,7 @@ Stop, também conhecido como Adedonha, é um jogo de palavras que pode ser jogad
 <button>Clique aqui</button>
 
 <p>
-Visite este site:
+Veja este vídeo:
 <a href="https://www.google.com" target="_blank">Clique aqui</a>
 </p>
 
