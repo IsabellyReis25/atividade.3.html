@@ -104,9 +104,8 @@ Stop, também conhecido como Adedonha, é um jogo de palavras que pode ser jogad
 Jogos escondidos do Google.
 </p>
 
-<a href="https://share.google/ZfyKhZQRDrUZfiTcE" target="_blank">Clique aqui</a>
+<button><a href="https://share.google/ZfyKhZQRDrUZfiTcE" target="_blank">Clique aqui</a></button>>
 
-<button>Clique aqui</button>
 
 <footer>
 <p>Feito por Isabelle e Reis.</p>
