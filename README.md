@@ -73,7 +73,7 @@ footer{
 
 <h1>Recomendando jogos!</h1>
 
-<h2>Jogos pra passar o tempo </h2>
+<h3>Jogos pra passar o tempo </h3>
 
 
 <p>
@@ -81,7 +81,11 @@ Subway Surfers é um jogo de corrida infinita em que o jogador controla um perso
 </p>
 
 
+
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6sz_NY-rIMNqG84gNz4gwNClMkATgBn0yz_Vm6QeMHQ&s" alt="Imagem 1">
+
+
 
 
 <p>
@@ -89,7 +93,11 @@ Gartic é um jogo online de desenho e adivinhação que pode ser jogado pelo cel
 </p>
 
 
+
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpFBp3_Z3Chnqs6iD1mrpmd41GniB3e8Ug66WlmQiDg&s=10" alt="Imagem 2">
+
+
 
 
 <p>
@@ -97,10 +105,12 @@ Stop, também conhecido como Adedonha, é um jogo de palavras que pode ser jogad
 </p>
 
 
+
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcmf4C59njQb0Opi3LfGn9QlmT0CoRkSYpIeRx6ZE8xg&s=10" alt="Imagem 3">
 
 
-<h2> Jogos do google!</h2>
+<h1></h1> Jogos do google!</h1>
 
 <h3> Digite o nome do jogo no google e se divirta!<h3>
 
@@ -113,9 +123,11 @@ Stop, também conhecido como Adedonha, é um jogo de palavras que pode ser jogad
 </ul>
 
 <p>
-Veja este vídeo sobre jogos escondidos do Google. 
-<a href="https://share.google/ZfyKhZQRDrUZfiTcE" target="_blank">Clique aqui</a>
+Veja este vídeo sobre jogos escondidos do Google.
 </p>
+
+<a href="https://share.google/ZfyKhZQRDrUZfiTcE" target="_blank">Clique aqui</a>
+
 
 <button>Clique aqui</button>
 
