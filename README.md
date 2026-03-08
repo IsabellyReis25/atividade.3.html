@@ -64,7 +64,7 @@ footer{
 <body>
 
 <div class="banner">
-<img src="https://www.canva.com/design/DAHDRkmBuFI/DRTyXO8hqGF5rXJ5w9WjPA/edit?utm_content=DAHDRkmBuFI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner" style="width:100%;">
+<img src="banner.png" alt="Banner" style="width:100%;">
 </div>
 
 <h1>Recomendando jogos!</h1>
