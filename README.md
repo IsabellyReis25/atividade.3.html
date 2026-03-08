@@ -9,17 +9,17 @@ Isabelle Vitorya e Reis
 <style>
 
 body{
-    background-color: #f2f2f2;
+    background-color: #ADD8E6;
     font-family: Arial, sans-serif;
     margin: 30px;
 }
 
 h1{
-    color: darkblue;
+    color: black;
 }
 
 h2{
-    color: darkred;
+    color: black;
 }
 
 p{
@@ -33,8 +33,8 @@ ul{
 }
 
 button{
-    background-color: blue;
-    color: white;
+    background-color: darkred;
+    color: black;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
