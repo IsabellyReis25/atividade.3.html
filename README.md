@@ -53,11 +53,23 @@ footer{
     padding-top: 10px;
 }
 
+
+.banner{
+    width:100%;
+    max-width:600px;
+    margin-bottom:20px;
+}
+
 </style>
 
 </head>
 
 <body>
+
+
+<div class="banner">
+<img src="SEU-BANNER-AQUI.png" alt="Banner do site" style="width:100%;">
+</div>
 
 <h1>Recomendando jogos!</h1>
 
@@ -100,13 +112,12 @@ Stop, também conhecido como Adedonha, é um jogo de palavras que pode ser jogad
 <li>Dueto</li>
 </ul>
 
-<button>Clique aqui</button>
-
 <p>
 Veja este vídeo sobre jogos escondidos do Google. 
 <a href="https://share.google/ZfyKhZQRDrUZfiTcE" target="_blank">Clique aqui</a>
 </p>
 
+<button>Clique aqui</button>
 
 <footer>
 <p>Feito por Isabelle e Reis.</p>
