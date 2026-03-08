@@ -76,11 +76,10 @@ footer{
 <h3>Jogos pra passar o tempo </h3>
 
 
+
 <p>
 Subway Surfers é um jogo de corrida infinita em que o jogador controla um personagem que está fugindo de um inspetor e seu cachorro após fazer grafite em um trem. O objetivo é correr pelos trilhos do metrô desviando de obstáculos, trens e barreiras enquanto coleta moedas e itens especiais. Durante o jogo, é possível usar power-ups, como jetpack e ímã de moedas, que ajudam a aumentar a pontuação e continuar correndo por mais tempo.
 </p>
-
-
 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6sz_NY-rIMNqG84gNz4gwNClMkATgBn0yz_Vm6QeMHQ&s" alt="Imagem 1">
@@ -93,8 +92,6 @@ Gartic é um jogo online de desenho e adivinhação que pode ser jogado pelo cel
 </p>
 
 
-
-
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpFBp3_Z3Chnqs6iD1mrpmd41GniB3e8Ug66WlmQiDg&s=10" alt="Imagem 2">
 
 
@@ -103,8 +100,6 @@ Gartic é um jogo online de desenho e adivinhação que pode ser jogado pelo cel
 <p>
 Stop, também conhecido como Adedonha, é um jogo de palavras que pode ser jogado no celular com várias categorias, como nome, animal, fruta ou cidade. Em cada rodada, uma letra do alfabeto é sorteada, e os jogadores precisam preencher todas as categorias com palavras que comecem com essa letra. Quando alguém termina primeiro, ele aperta o botão “Stop”, e todos os jogadores param de escrever. Depois disso, as respostas são conferidas e os pontos são distribuídos de acordo com as palavras corretas e únicas.
 </p>
-
-
 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcmf4C59njQb0Opi3LfGn9QlmT0CoRkSYpIeRx6ZE8xg&s=10" alt="Imagem 3">
